@@ -11,7 +11,7 @@ You can use `~/.dircolors` file to use custom colors.
 If you use [fisher](https://github.com/jorgebucaran/fisher) :
 
 ```
-fisher usami-k/gls
+fisher add usami-k/gls
 ```
 
 If you use [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) :
